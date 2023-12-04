@@ -12,7 +12,7 @@ Project to forecast car prices according to different criteria.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgements
-[Car Price Prediction Multiple Linear Regression](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
+Dataset : [Car Price Prediction Multiple Linear Regression](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
 
 ## Tech Stack
 - Python - The primary programming language for the project.
